@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Xinlong Li]!
+# 👋 Hello, I'm Xinlong Li!
 
 Welcome to my GitHub profile! Here's a bit about me:
 
